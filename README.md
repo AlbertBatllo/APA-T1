@@ -6,7 +6,7 @@
 
 ### Domini temporal
 
-Per llegir, escriure i representar un fitxer en format `*.wav` en python podem fem servir els següents mòduls:
+Per llegir, escriure i representar un fitxer en format `*.wav` en python podem fem servir els següents mòduls: 
 
 - Numpy:
 
@@ -108,6 +108,7 @@ plt.show()                            # Per mostrar els grafics
     freqüència pròpia en el marge audible. Comenta els resultats.
 
  qualsevol cosa mes interessant
+ cualquier tonteria
 
 2. Modifica el programa per considerar com a senyal a analitzar el senyal del fitxer wav que has creat (`x_r, fm = sf.read('nom_fitxer.wav')`).
 
